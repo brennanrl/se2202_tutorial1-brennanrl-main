@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "HellThereTest",
+      "setup": "",
+      "run": "node hello.js",
+      "input": "",
+      "output": "Hello there!",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
